@@ -7,7 +7,7 @@ const FeatureData = ({ featureData }) => {
     return `${feature} (${usage}%)`;};
 
   return (
-    <div className='mt-10 col-span-2'>
+    <div className='mt-10 lg:col-span-2'>
       <h2 className=" text-center text-2xl font-semibold mb-6">
         Feature Usage
       </h2>

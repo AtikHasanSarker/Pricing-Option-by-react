@@ -10,7 +10,7 @@ const Charts = ({ usageDataPromise, featureDataPromise, dailyUserPromise }) => {
   const dailyUser = use(dailyUserPromise);
 
   return (
-    <div className="w-10/12 mx-auto mt-20 grid grid-cols-2 wra gap-10 justify-center">
+    <div className="mx-5 lg:w-10/12 lg:mx-auto mt-20 grid grid-cols-1 lg:grid-cols-2 wra gap-10 justify-center">
       <UsageData usageData={usageData}></UsageData>
       <DailyUser dailyUser={dailyUser}></DailyUser>
       <FeatureData featureData={featureData}></FeatureData>
