@@ -7,10 +7,10 @@ const PriceCard = ({ pricing }) => {
       <div className="card w-full bg-base-100 shadow-sm flex flex-col justify-between h-full">
         <div className="card-body">
           <div className="flex justify-between">
-            <h2 className="text-3xl font-bold">{name}</h2>
-            <span className="text-xl">${price}</span>
+            <h2 className="text-2xl font-bold">{name}</h2>
+            <span>${price}</span>
           </div>
-          <div className='text-xl'>{billing}</div>
+          <div>{billing}</div>
           <ul className="mt-6 flex flex-col gap-2 text-xs">
             {
                 features.map(feature => 

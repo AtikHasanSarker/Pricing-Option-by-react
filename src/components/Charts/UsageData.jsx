@@ -15,7 +15,7 @@ const UsageData = ({ usageData }) => {
         AI Usage Growth
       </h2>
 
-      <LineChart width={500} height={300} data={usageData}>
+      <LineChart width="100%" height={300} data={usageData}>
         <CartesianGrid strokeDasharray="3 3" />
         <XAxis dataKey="month" />
         <YAxis />
