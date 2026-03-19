@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "name": "Free",
+      "price": 0,
+      "billing": "monthly",
+      "description": "Basic access for individuals getting started with AI tools.",
+      "features": [
+        "Limited AI queries per day",
+        "Access to basic models",
+        "Standard response speed",
+        "Community support",
+        "Basic text generation"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Starter",
+      "price": 9.99,
+      "billing": "monthly",
+      "description": "Ideal for casual users who need more access and better performance.",
+      "features": [
+        "Increased query limit",
+        "Access to faster models",
+        "Priority response speed",
+        "Email support",
+        "Basic image generation",
+        "Conversation history"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pro",
+      "price": 19.99,
+      "billing": "monthly",
+      "description": "Best for professionals who need powerful AI capabilities.",
+      "features": [
+        "Unlimited queries",
+        "Access to advanced AI models",
+        "Faster response time",
+        "Priority support",
+        "Image & code generation",
+        "File uploads and analysis",
+        "Custom prompts & templates"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Business",
+      "price": 49.99,
+      "billing": "monthly",
+      "description": "Designed for teams and businesses with collaboration needs.",
+      "features": [
+        "Everything in Pro",
+        "Team collaboration tools",
+        "Shared workspace",
+        "Admin dashboard",
+        "API access",
+        "Usage analytics",
+        "Enhanced security controls"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Enterprise",
+      "price": 99.99,
+      "billing": "monthly",
+      "description": "Advanced solution for large organizations with custom requirements.",
+      "features": [
+        "Everything in Business",
+        "Dedicated support manager",
+        "Custom AI model training",
+        "On-premise deployment options",
+        "Advanced data privacy & compliance",
+        "SLA guarantees",
+        "Scalable infrastructure"
+      ]
+    }
+  ]

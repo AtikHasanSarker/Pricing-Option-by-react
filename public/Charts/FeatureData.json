@@ -1,0 +1,7 @@
+[
+  { "feature": "Text Generation", "usage": 40 },
+  { "feature": "Image Generation", "usage": 25 },
+  { "feature": "Code Assistant", "usage": 20 },
+  { "feature": "Chatbot", "usage": 10 },
+  { "feature": "Voice AI", "usage": 5 }
+]

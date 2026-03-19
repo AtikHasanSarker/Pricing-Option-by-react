@@ -1,0 +1,8 @@
+[
+  { "month": "Jan", "users": 1200, "requests": 4500, "revenue": 800 },
+  { "month": "Feb", "users": 1800, "requests": 6200, "revenue": 1200 },
+  { "month": "Mar", "users": 2500, "requests": 9000, "revenue": 1800 },
+  { "month": "Apr", "users": 3200, "requests": 12000, "revenue": 2500 },
+  { "month": "May", "users": 4000, "requests": 15500, "revenue": 3200 },
+  { "month": "Jun", "users": 5200, "requests": 20000, "revenue": 4500 }
+]
